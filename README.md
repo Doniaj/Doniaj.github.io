@@ -31,7 +31,7 @@
 </head>
 <body>
     <div class="container">
-        <h1Reservation Details</h1>
+        <h1>Reservation Details</h1>
         <table>
             <tr>
                 <th>Field</th>
