@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -31,7 +31,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>QR Code Data</h1>
+        <h1Reservation Details</h1>
         <table>
             <tr>
                 <th>Field</th>
